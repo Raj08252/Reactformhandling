@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: aqua;
+}
+
+.heading
+{
+  text-align: center;
+  margin-top: 200px;
+}
+
+.btn
+{
+  width:80px;
+  height:40px;
+  border-radius: 8px;
+  background-color: blue;
+  color: aliceblue;
+  cursor: pointer;
+}
+
